@@ -1,0 +1,7 @@
+interface:
+  display_name: "Alpha-Gotchi"
+  short_description: "Adopt a living OKX trading pet dashboard"
+  icon_small: "./assets/pet-small.svg"
+  icon_large: "./assets/pet-large.svg"
+  brand_color: "#d98c2b"
+  default_prompt: "Use $alpha-gotchi to check the local OpenClaw + OKX setup, adopt the pet in demo mode, launch the dashboard, and return the pet status link."

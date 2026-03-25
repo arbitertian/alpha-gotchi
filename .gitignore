@@ -1,0 +1,5 @@
+assets/app/node_modules/
+assets/app/dist/
+*.log
+Thumbs.db
+.DS_Store
